@@ -816,7 +816,7 @@
             </div>
             
             <div class="header-icons">
-                <a href="#"><i class="far fa-user"></i></a>
+                <a href="#"><em class="far fa-user"></em></a>
                 <a href="#"><i class="far fa-heart"></i></a>
                 <a href="#"><i class="fas fa-shopping-cart"></i><span class="cart-count">3</span></a>
                 <button class="mobile-menu-btn" id="mobileMenuBtn"><i class="fas fa-bars"></i></button>
@@ -860,12 +860,12 @@
                 <p>Trendy outfits for every occasion</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-headphones"></i></div>
+                <div class="category-icon"><em class="fas fa-headphones"></em></div>
                 <h3>Gadgets</h3>
                 <p>Smart devices for modern life</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-shoe-prints"></i></div>
+                <div class="category-icon"><em class="fas fa-shoe-prints"></em></div>
                 <h3>Footwear</h3>
                 <p>Comfortable & stylish shoes</p>
             </div>
